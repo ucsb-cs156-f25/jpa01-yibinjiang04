@@ -1,6 +1,6 @@
 # jpa01-yibinjiang04
 
-Deployed at: http://jpa01-yibinjiang04.dokku-12.cs.ucsb.edu
+Deployed at: https://jpa01-yibinjiang04.dokku-12.cs.ucsb.edu
 
 
 # About this repo
